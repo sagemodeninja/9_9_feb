@@ -1,0 +1,10 @@
+[
+    {
+        "sender": 0,
+        "message": "Hello World!"
+    },
+    {
+        "sender": 1,
+        "message": "You're my World!"
+    }
+]
